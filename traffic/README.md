@@ -22,5 +22,5 @@ A smart system that finds the most efficient, low-impact routes using real-time 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multi-modal-route-optimizer.git
-cd multi-modal-route-optimizer
+git clone https://github.com/Munkh-Erdene050124/AI-made.git
+cd AI-made
